@@ -11,6 +11,6 @@ public:
             else
             end=mid;                   //element lies left of mid
          }
-          return nums[end];
+          return nums[st];
     }
 };
