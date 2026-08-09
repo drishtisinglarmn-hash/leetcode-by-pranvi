@@ -5,7 +5,7 @@ public:
         int end = *max_element(piles.begin(), piles.end());
 
         while(st<=end){
-            long int takenHours=0;
+         long long takenHours=0;
             int mid= st+(end-st)/2;
 
             for(int i=0;i<piles.size();i++){
