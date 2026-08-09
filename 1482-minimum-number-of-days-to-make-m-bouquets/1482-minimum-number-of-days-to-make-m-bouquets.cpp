@@ -7,8 +7,13 @@ public:
             return -1;
         }
 
-        long long st=*min_element(bloomDay.begin(),bloomDay.end());
-        long long end=*max_element(bloomDay.begin(),bloomDay.end());
+        long long st=INT_MAX;
+        long long end=0;
+
+        for (int i = 0; i < bloomDay.size(); i++) {
+            if (bloomDay[i] > end ) end = bloomDay[i];
+            if (bloomDay[i] < st) st = bloomDay[i];
+        }
 
         while(st<=end){
             long long mid=st+(end-st)/2;
