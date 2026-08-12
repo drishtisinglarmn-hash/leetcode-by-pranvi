@@ -60,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0278-first-bad-version) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
