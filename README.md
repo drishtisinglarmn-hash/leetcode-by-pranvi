@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0150-evaluate-reverse-polish-notation) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
