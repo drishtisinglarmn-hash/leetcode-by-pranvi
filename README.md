@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0844-backspace-string-compare) |
@@ -110,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
