@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0933-number-of-recent-calls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,8 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0933-number-of-recent-calls) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
