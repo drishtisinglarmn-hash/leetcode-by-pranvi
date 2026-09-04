@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0200-number-of-islands) |
 | [0410-split-array-largest-sum](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0503-next-greater-element-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0994-rotting-oranges) |
 ## Interactive
@@ -154,10 +156,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0102-binary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
