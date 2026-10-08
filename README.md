@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0071-simplify-path) |
 | [0402-remove-k-digits](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/drishtisinglarmn-hash/leetcode-by-pranvi/tree/master/0150-evaluate-reverse-polish-notation) |
